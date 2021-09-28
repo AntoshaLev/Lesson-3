@@ -1,4 +1,4 @@
-# Задание 1
+# Задание_1
 
 nums = {
     "zero": "ноль",
@@ -22,7 +22,7 @@ def num_translate(eng_words):
 print(num_translate("zero"))
 
 
-# Задание  2
+# Задание_2
 
 def thesaurus(*names):
     res = {}
@@ -36,7 +36,7 @@ def thesaurus(*names):
 
 print(thesaurus("Иван", "Мария", "Петр", "Илья"))
 
-# Задание  3
+# Задание_3
 
 import random
 
